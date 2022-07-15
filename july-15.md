@@ -28,4 +28,4 @@
 * The distance we drive to to each drop point is the same.
 * (3000 - x)\*3 = 2000, and x = 1000 / 3 = 333.3333... (our first point)
 * (2000- y)\*2 = 1000, y = 500 (second point).
-* The number left = 333.3333+500 + 833.
+* The number left = 333.3333+500 = 833.
