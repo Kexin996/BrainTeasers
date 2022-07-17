@@ -12,3 +12,4 @@
 * [July 14](july-14.md)
 * [July 14](july-14-1.md)
 * [July 15](july-15.md)
+* [Jul 16](jul-16.md)
