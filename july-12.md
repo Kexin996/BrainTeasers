@@ -43,4 +43,4 @@ description: get 3 from 2
   * if {(1) (6 7 8)} < {(5) (10 11 12)}
     * it belongs to case 4
     * we do internal comparison to (6 7 8)
-* Note: when we compare 2 elements out of 3 elements, we can deduce the actual values of all the 3 elements
+* Note: **\*we are actually splitting the 3 sets into 6 sets\***
